@@ -1,0 +1,8 @@
+.corps{
+	;
+	margin: 0 auto;
+	line-height:1.6;
+	filter: contrast(0.6);
+	font-size: 18px;
+	max-width: 75ch;
+}
